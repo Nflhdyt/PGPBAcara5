@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Presensi App</string>
+    <string-array name="keterangan_options">
+        <item>Hadir tepat waktu</item>
+        <item>Sakit</item>
+        <item>Izin</item>
+        <item>Terlambat</item>
+    </string-array>
+</resources>
+
